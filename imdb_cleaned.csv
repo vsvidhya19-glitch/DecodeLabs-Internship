@@ -1,0 +1,101 @@
+Title_Id,Title,Genre,Duration_Min,Country,Content_Rating,Director,Income_Usd,Votes,Score,Release_Year
+tt0111161,The Shawshank Redemption,Drama,,USA,R,Frank Darabont,28815245,22788450,9.3,1995
+tt0068646,The Godfather,"Crime, Drama",,USA,R,Francis Ford Coppola,246120974,15726740,9.2,1972
+tt0468569,The Dark Knight,"Action, Crime, Drama",,USA,PG-13,Christopher Nolan,1005455211,22416150,9.0,2008
+tt0071562,The Godfather: Part II,"Crime, Drama",,USA,R,Francis Ford Coppola,408035783,10987140,9.0,1975
+tt0110912,Pulp Fiction,"Crime, Drama",,USA,R,Quentin Tarantino,222831817,17801470,8.2,1994
+tt0167260,The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",,New Zealand,PG-13,Peter Jackson,1142271098,16042800,8.9,2004
+tt0108052,Schindler's List,"Biography, Drama, History",,USA,R,Steven Spielberg,322287794,11832480,8.9,1994
+tt0050083,12 Angry Men,"Crime, Drama",,USA,Not Rated,Sidney Lumet,576,6684730,8.9,1957
+tt1375666,Inception,"Action, Adventure, Sci-Fi",,USA,PG-13,Christopher Nolan,869784991,20028160,8.8,2010
+tt0137523,Fight Club,Drama,,UK,R,David Fincher,101218804,18074400,8.8,1999
+tt0109830,Forrest Gump,"Drama, Romance",,USA,PG-13,Robert Zemeckis,678229452,17554900,8.2,1994
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",,New Zealand,PG-13,Peter Jackson,887934303,16199200,8.8,2002
+tt0060196,"Il buono, il brutto, il cattivo",Western,,Italy,Approved,Sergio Leone,25252481,6724990,8.8,1966
+tt0133093,The Matrix,"Action, Sci-Fi",,USA,R,"Lana Wachowski, Lilly Wachowski",465718588,16323150,8.7,1999
+tt0167261,The Lord of the Rings: The Two Towers,"Action, Adventure, Drama",,New Zealand,PG-13,Peter Jackson,951227416,14497780,8.7,2003
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy",,USA,PG,Irvin Kershner,549265501,11320730,8.2,1980
+tt0099685,Goodfellas,"Biography, Crime, Drama",,USA,R,Martin Scorsese,46879633,9915050,8.7,1990
+tt0073486,One Flew Over the Cuckoo's Nest,Drama,,USA,R,Milos Forman,108997629,8910710,8.7,1976
+tt0816692,Interstellar,"Adventure, Drama, Sci-Fi",,USA,PG-13,Christopher Nolan,696742056,14492560,8.6,2014
+tt0114369,Se7en,"Crime, Drama, Mystery",,USA,R,David Fincher,327333559,14020150,8.6,1995
+tt0102926,The Silence of the Lambs,"Crime, Drama, Thriller",,USA,R,Jonathan Demme,272753884,12341340,8.2,1991
+tt0076759,Star Wars,"Action, Adventure, Fantasy",,USA,PG,George Lucas,775768912,12041070,8.6,1977
+tt0120815,Saving Private Ryan,"Drama, War",,USA,R,Steven Spielberg,482349603,12038250,8.6,1998
+tt0120689,The Green Mile,"Crime, Drama, Fantasy",,USA,R,Frank Darabont,286801374,11123360,8.6,2000
+tt0317248,Cidade de Deus,"Crime, Drama",,Brazil,R,"Fernando Meirelles, KÃ¡tia Lund",30680793,6858560,8.6,2003
+tt0245429,Sen to Chihiro no kamikakushi,"Animation, Adventure, Family",,Japan,PG,Hayao Miyazaki,355467056,6266930,8.6,2003
+tt0118799,La vita B9 bella,"Comedy, Drama, Romance",,Italy,Unknown,Roberto Benigni,230098753,6056480,8.6,1997
+tt6751668,Gisaengchung,"Comedy, Drama, Thriller",,South Korea,Unknown,Bong Joon Ho,257604912,4709310,8.6,2019
+tt0038650,It's a Wonderful Life,"Drama, Family, Fantasy",,USA,PG,Frank Capra,6130720,3883100,8.6,1948
+tt0047478,Shichinin no samurai,"Action, Adventure, Drama",,Japan,Unrated,Akira Kurosawa,322773,3079580,8.6,1955
+tt0172495,Gladiator,"Action, Adventure, Drama",,USA,R,Ridley Scott,465361176,13081930,8.5,2000
+tt0407887,The Departed,"Crime, Drama, Thriller",,USA,R,Martin Scorsese,291465034,11597030,8.5,2006
+tt0482571,The Prestige,"Drama, Mystery, Sci-Fi",,UK,PG-13,Christopher Nolan,109676311,11557230,8.5,2006
+tt0088763,Back to the Future,"Adventure, Comedy, Sci-Fi",,USA,PG,Robert Zemeckis,388774684,10273300,8.5,1985
+tt0120586,American History X,Drama,,USA,R,Tony Kaye,23875127,10142180,8.5,1999
+tt0110413,LÃ©on,"Action, Crime, Drama",,France,Unknown,Luc Besson,19552639,10075980,8.5,1995
+tt0103064,Terminator 2: Judgment Day,"Action, Sci-Fi",,USA,R,James Cameron,520884847,9749700,8.4,1991
+tt0114814,The Usual Suspects,"Crime, Mystery, Thriller",,USA,R,Bryan Singer,23341568,9689470,8.4,1995
+tt0110357,The Lion King,"Animation, Adventure, Drama",,USA,G,"Roger Allers, Rob Minkoff",968511805,9172480,8.4,1994
+tt7286456,Joker,"Crime, Drama, Thriller",,USA,Unknown,Todd Phillips,1074251311,8550970,8.4,2019
+tt1675434,Intouchables,"Biography, Comedy, Drama",,France,Unknown,"Olivier Nakache, Ãric Toledano",426588510,7366910,8.4,2012
+tt0253474,The Pianist,"Biography, Drama, Music",,UK,R,Roman Polanski,120072577,7079420,8.4,2002
+tt2582802,Whiplash,"Drama, Music",,USA,R,Damien Chazelle,48983260,6907320,8.4,2015
+tt0054215,Psycho,"Horror, Mystery, Thriller",,USA,R,Alfred Hitchcock,32008644,5867650,8.3,1960
+tt0034583,Casablanca,"Drama, Romance, War",,USA,PG,Michael Curtiz,4374761,5099530,8.3,2046
+tt0064116,C'era una volta il West,Western,,Italy,PG-13,Sergio Leone,112911,2952200,8.3,1968
+tt0095327,Hotaru no haka,"Animation, Drama, War",,Japan,Unknown,Isao Takahata,516962,2254380,8.3,2015
+tt0095765,Nuovo Cinema Paradiso,Drama,,Italy,Unknown,Giuseppe Tornatore,13826605,2230500,8.3,1988
+tt0027977,Modern Times,"Comedy, Drama, Family",,USA,G,Charles Chaplin,457688,2112500,8.3,1937
+tt1345836,The Dark Knight Rises,"Action, Adventure",,UK,PG-13,Christopher Nolan,1081133191,14805820,8.3,2012
+tt1853728,Django Unchained,"Drama, Western",,USA,R,Quentin Tarantino,425368238,13178560,8.3,2013
+tt0209144,Memento,"Mystery, Thriller",,USA,R,Christopher Nolan,39970386,10988790,8.2,2001
+tt0910970,WALLÂ·E,"Animation, Adventure, Family",,USA,G,Andrew Stanton,521311860,9747340,8.2,2008
+tt0081505,The Shining,"Drama, Horror",,UK,R,Stanley Kubrick,46520613,8694800,8.2,1980
+tt0082971,Raiders of the Lost Ark,"Action, Adventure",,USA,PG,Steven Spielberg,390133212,8655100,8.2,1981
+tt4154756,Avengers: Infinity War,"Action, Adventure, Sci-Fi",,USA,Unknown,"Anthony Russo, Joe Russo",2048359754,7964860,8.2,2018
+tt0078748,Alien,"Horror, Sci-Fi",,UK,R,Ridley Scott,108110316,7688740,8.2,1979
+tt4154796,Avengers: Endgame,"Action, Adventure, Drama",,USA,Unknown,"Anthony Russo, Joe Russo",2797800564,7547860,8.2,2019
+tt0078788,Apocalypse Now,"Drama, Mystery, War",,USA,R,Francis Ford Coppola,91968688,5912510,8.2,1979
+tt0364569,Oldeuboi,"Action, Drama, Mystery",,South Korea,R,Chan-wook Park,15002116,5010820,8.1,2005
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy,,UK,PG,Stanley Kubrick,9443876,4411150,8.1,1964
+tt0047396,Rear Window,"Mystery, Thriller",,USA,Unknown,Alfred Hitchcock,37032034,4323900,8.1,1955
+tt2380307,Coco,"Animation, Adventure, Family",,USA,Unknown,"Lee Unkrich, Adrian Molina",807083670,3524550,8.1,2017
+tt0405094,Das Leben der Anderen,"Drama, Mystery, Thriller",,Germany,R,Florian Henckel von Donnersmarck,77356942,3496420,8.1,2007
+tt4633694,Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure",,USA,Unknown,"Bob Persichetti, Peter Ramsey",375540831,3358920,8.1,2018
+tt1187043,3 Idiots,"Comedy, Drama",,India,Unknown,Rajkumar Hirani,60262836,3322170,8.1,2009
+tt0119698,Mononoke-hime,"Animation, Adventure, Fantasy",,Japan,PG-13,Hayao Miyazaki,169785629,3310450,8.0,2000
+tt0087843,Once Upon a Time in America,"Crime, Drama",,USA,R,Sergio Leone,5472914,3023170,8.0,1984
+tt0032553,The Great Dictator,"Comedy, Drama, War",,USA,Unknown,Charles Chaplin,969879,1973810,8.0,1945
+tt0043014,Sunset Blvd.,"Drama, Film-Noir",,USA,Unknown,Billy Wilder,299645,1957890,8.0,1951
+tt0361748,Inglourious Basterds,"Adventure, Drama, War",,Germany,R,Quentin Tarantino,321455689,12299580,8.0,2009
+tt0169547,American Beauty,Drama,,USA,R,Sam Mendes,356296601,10490090,8.0,2000
+tt0112573,Braveheart,"Biography, Drama, History",,USA,R,Mel Gibson,213216216,9416830,7.9,1995
+tt0086190,Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy",,USA,PG,Richard Marquand,475347111,9280360,7.9,1983
+tt0105236,Reservoir Dogs,"Crime, Drama, Thriller",,USA,R,Quentin Tarantino,2889963,8965510,7.9,1992
+tt0338013,Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",,USA,R,Michel Gondry,74036715,8898750,7.9,2004
+tt0114709,Toy Story,"Animation, Adventure, Comedy",,USA,G,John Lasseter,404265438,8644610,7.9,1996
+tt0119217,Good Will Hunting,"Drama, Romance",,USA,R,Gus Van Sant,225933435,8373790,7.8,1998
+tt0208092,Snatch,"Comedy, Crime",,UK,R,Guy Ritchie,83557872,7665890,7.8,2001
+tt0180093,Requiem for a Dream,Drama,,USA,R,Darren Aronofsky,7390108,7482910,7.8,2000
+tt0066921,A Clockwork Orange,"Crime, Drama, Sci-Fi",,UK,Unknown,Stanley Kubrick,26903440,7403010,7.8,1972
+tt0435761,Toy Story 3,"Animation, Adventure, Comedy",,USA,G,Lee Unkrich,1066969703,7397170,7.8,2010
+tt0086250,Scarface,"Crime, Drama",,USA,R,Brian De Palma,66023585,7213430,7.8,1984
+tt0075314,Taxi Driver,"Crime, Drama",,USA,R,Martin Scorsese,28441292,7032640,7.7,1976
+tt0211915,Le fabuleux destin d'AmÃ©lie Poulain,"Comedy, Romance",,France,R,Jean-Pierre Jeunet,173924742,6904800,7.7,2002
+tt0093058,Full Metal Jacket,"Drama, War",,UK,Unknown,Stanley Kubrick,46357676,6581750,7.7,1987
+tt0090605,Aliens,"Action, Adventure, Sci-Fi",,USA,R,James Cameron,131384634,6395000,7.7,1986
+tt0062622,2001: A Space Odyssey,"Adventure, Sci-Fi",,UK,G,Stanley Kubrick,68989547,5878660,7.6,1968
+tt0033467,Citizen Kane,"Drama, Mystery",,USA,Unknown,Orson Welles,1594107,3893220,7.6,1948
+tt8579674,1917,"Drama, War",,USA,Unknown,Sam Mendes,384857224,3628970,7.6,2020
+tt0086879,Amadeus,"Biography, Drama, History",,USA,R,Milos Forman,52066791,3610280,7.6,1985
+tt0052357,Vertigo,"Mystery, Romance, Thriller",,USA,Unknown,Alfred Hitchcock,7796389,3527860,7.5,1958
+tt0053125,North by Northwest,"Adventure, Mystery, Thriller",,USA,Unknown,Alfred Hitchcock,73446,2916280,7.5,1959
+tt2106476,Jagten,Drama,,Denmark,R,Thomas Vinterberg,15843274,2696160,7.5,2012
+tt0056172,Lawrence of Arabia,"Adventure, Biography, Drama",,UK,PG,David Lean,45710874,2615040,7.5,1963
+tt0070735,The Sting,"Comedy, Crime, Drama",,USA,PG,George Roy Hill,156000000,2362850,7.5,1974
+tt0082096,Das Boot,"Adventure, Drama, Thriller",,Germany,R,Wolfgang Petersen,11487676,2264270,7.5,1982
+tt0059578,Per qualche dollaro in piÃ¹,Western,,Italy,Unknown,Sergio Leone,15000000,2260390,7.4,1965
+tt1832382,Jodaeiye Nader az Simin,Drama,,Iran,PG-13,Asghar Farhadi,22926076,2141650,7.4,2011
+tt0045152,Singin' in the Rain,"Comedy, Musical, Romance",,USA,Unknown,Stanley Donen,1864182,2131520,7.4,1953
